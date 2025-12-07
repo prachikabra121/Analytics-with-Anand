@@ -1,0 +1,11 @@
+Hello world!
+
+This is a test file.
+
+
+It contains some blank lines.
+
+Python file handling is easy!
+
+
+END
