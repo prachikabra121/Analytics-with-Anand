@@ -1,0 +1,4 @@
+2025-01-02 20:20:47,758 - INFO - Attempting to read the file: example.txt
+2025-01-02 20:20:47,763 - ERROR - File not found: example.txt
+2025-01-02 20:21:05,821 - INFO - Attempting to read the file: example.txt
+2025-01-02 20:21:05,821 - ERROR - File not found: example.txt

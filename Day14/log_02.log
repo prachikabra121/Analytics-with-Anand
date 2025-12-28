@@ -1,0 +1,18 @@
+2025-12-28 14:39:24,150-ERROR -An error occureds : Division by zeror.
+2025-12-28 14:39:58,372-ERROR -An error occureds : Division by zeror.
+Traceback (most recent call last):
+  File "C:\Users\prach\Desktop\AnalyticsWithAnand\Day14\log_2.py", line 9, in <module>
+    result = 1/0
+             ~^~
+ZeroDivisionError: division by zero
+2025-12-28 14:44:53,365-INFO -user has enter number 1 24
+2025-12-28 14:44:57,491-INFO -user has enter number 2 0
+2025-12-28 14:44:57,491-ERROR -An error occureds : Division by zeror.
+Traceback (most recent call last):
+  File "C:\Users\prach\Desktop\AnalyticsWithAnand\Day14\log_2.py", line 13, in <module>
+    result=num1/num2
+           ~~~~^~~~~
+ZeroDivisionError: division by zero
+2025-12-28 14:45:26,364-INFO -user has enter number 1 56
+2025-12-28 14:45:28,651-INFO -user has enter number 2 23
+2025-12-28 14:45:28,651-INFO -result from num1 and num2 is 2.4347826086956523
