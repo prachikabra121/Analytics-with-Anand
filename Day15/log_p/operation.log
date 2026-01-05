@@ -1,0 +1,4 @@
+2025-01-05 12:47:15 - INFO - Numbers to be added: 5 and a
+2025-01-05 12:47:15 - INFO - Starting the addition operation
+2025-01-05 12:47:15 - ERROR - An error occurred during addition: unsupported operand type(s) for +: 'int' and 'str'
+2025-01-05 12:47:15 - INFO - Final result: None
